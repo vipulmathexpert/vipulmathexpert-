@@ -3,7 +3,7 @@
 **I'm a Mathematics Expert and Freelancer**  
 - Specializing in advanced math topics like calculus, linear algebra, and differential equations.  
 - Experienced in helping students solve problems and understand concepts clearly.  
-- Available for projects, tutoring, and freelancing.
+- Available for projects, and freelancing.
 
 ## 📂 Featured Repositories
 - [Advanced Calculus Solutions](#)
