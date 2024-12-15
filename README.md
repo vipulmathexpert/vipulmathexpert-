@@ -6,8 +6,7 @@
 - Available for projects, and freelancing.
 
 ## 📂 Featured Repositories
-- [Advanced Calculus Solutions](#)
-- [Linear Algebra Explained](#)
+- [Calculus tricks and concepts](#)
 
 ## 📬 Contact Me
 - **Email**: vipulpathak2005gmail.com  
