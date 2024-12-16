@@ -11,4 +11,4 @@
 ## 📬 Contact Me
 - **Email**: vipulpathak2005gmail.com  
 - **GitHub**: [github.com/VipulPathakMath](https://github.com/VipulPathakMath)  
-- **Freelancing Profile**:[myprofile](https://www.upwork.com/freelancers/~013f39647fb3e4d038)
+- **Freelancing Profile**:[myprofile](https://www.upwork.com/freelancers/~01732e16c59d41e6fe)
